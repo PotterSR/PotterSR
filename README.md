@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### My name is Saúl. 
+- Python newbie. 🐍
+- I'm currently learning Backend and Frontend. 💻
+
+
 <!--
 **PotterSR/PotterSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

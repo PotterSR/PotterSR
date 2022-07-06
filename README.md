@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-#### My name is Saúl. 
-- Python newbie. 🐍
-- I'm currently learning Backend and Frontend. 💻
+#### My name is __Saúl Ruano Sánchez__. i'm a __3rd-year physics undergad__. Here are some __interesting facts__ about me:  
+-  __Python__ Enthusiactic. 🐍
+- I'm learning __SQL__ and __Machine Learning__. 👽
 
 
 <!--

@@ -1,8 +1,9 @@
 ### Hi there 👋
-#### My name is __Saúl Ruano Sánchez__. i'm a __3rd-year physics undergad__. Here are some __interesting facts__ about me:  
+#### My name is __Saúl Ruano Sánchez__. i'm a __4th-year physics undergad__. Here are some __interesting facts__ about me:  
 -  __Python__ Enthusiactic. 🐍
 - I'm learning __Machine Learning__. 👽
 - Open Source Enthusiactic. :penguin:
+- Linux Desktop. 💻 
 
 <!--
 **PotterSR/PotterSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

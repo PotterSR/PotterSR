@@ -1,8 +1,8 @@
 ### Hi there 👋
-#### My name is __Saúl Ruano Sánchez__. i'm a __4th-year physics undergad__. Here are some __interesting facts__ about me:  
+#### My name is __Saúl Ruano Sánchez__. i'm a __4th-year physics undergrad__. Here are some __interesting facts__ about me:  
 -  __Python__ Enthusiactic. 🐍
 - I'm learning __Machine Learning__. 👽
-- Open Source Enthusiactic. :penguin:
+- Open Source Enthusiastic. :penguin:
 - Linux Desktop. 💻 
 
 <!--
